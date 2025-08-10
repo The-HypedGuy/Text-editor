@@ -1,0 +1,1 @@
+This is a simple text editor file for beginners interested in Python. Please change the icons2 directory in the ZPad.py to where you have saved the files. Also, run the try.py to know if you have installed all the necessary libraries. If not, please run the Requirement.txt file. 
